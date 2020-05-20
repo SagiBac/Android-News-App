@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News Appication</string>
+
+    <string-array name="time_array">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>5</item>
+    <item>10</item>
+    </string-array>
+
+    <string name="alert_dialog_two_buttons_title">GPS is off!</string>
+</resources>
